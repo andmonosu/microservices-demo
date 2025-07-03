@@ -1,0 +1,61 @@
+2025-07-03 11:34:12 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on Andreu-WORK with PID 11376 (/home/andreu/MyProjects/microservices-demo/twitter-to-kafka-service/target/classes started by andreu in /home/andreu/MyProjects/microservices-demo)
+2025-07-03 11:34:12 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2025-07-03 11:34:12 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.506 seconds (JVM running for 1.023)
+2025-07-03 11:34:12 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2025-07-03 11:34:12 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2025-07-03 11:34:12 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2025-07-03 11:34:12 [main] INFO  c.m.d.t.t.k.s.r.i.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Kafka, Elasticsearch]
+2025-07-03 11:34:12 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Maecenas pulvinar libero consectetuer consectetuer Kafka magna libero massa malesuada
+2025-07-03 11:34:22 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Fusce posuere ipsum libero Elasticsearch lectus Fusce
+2025-07-03 11:34:39 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on Andreu-WORK with PID 11509 (/home/andreu/MyProjects/microservices-demo/twitter-to-kafka-service/target/classes started by andreu in /home/andreu/MyProjects/microservices-demo)
+2025-07-03 11:34:39 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2025-07-03 11:34:39 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.406 seconds (JVM running for 0.779)
+2025-07-03 11:34:39 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2025-07-03 11:34:39 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2025-07-03 11:34:39 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2025-07-03 11:34:39 [main] INFO  c.m.d.t.t.k.s.r.i.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Kafka, Elasticsearch]
+2025-07-03 11:34:39 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text dolor adipiscing amet ipsum Fusce Elasticsearch pulvinar ultricies ultricies
+2025-07-03 11:34:40 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ipsum malesuada amet consectetuer magna purus ipsum adipiscing Elasticsearch massa congue elit sit ultricies dolor
+2025-07-03 11:34:40 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text libero lectus posuere lectus adipiscing massa Kafka adipiscing dolor dolor pulvinar
+2025-07-03 11:34:40 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text congue lectus magna pulvinar congue Elasticsearch ultricies Fusce elit pulvinar
+2025-07-03 11:34:40 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Fusce lectus pulvinar Kafka consectetuer Maecenas
+2025-07-03 11:34:40 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text massa ipsum dolor sit sit dolor Java consectetuer Fusce malesuada consectetuer
+2025-07-03 11:34:40 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Lorem Maecenas malesuada magna lectus sed magna malesuada Elasticsearch ultricies ipsum purus massa elit amet
+2025-07-03 11:34:40 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text sed purus amet Fusce dolor Elasticsearch Maecenas adipiscing sit amet
+2025-07-03 11:34:40 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text dolor consectetuer Fusce Fusce Fusce posuere Microservices sed magna malesuada pulvinar
+2025-07-03 11:34:40 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text congue sit Fusce congue ultricies congue Microservices magna sit adipiscing massa Lorem
+2025-07-03 11:34:40 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ultricies posuere Fusce massa ultricies Microservices adipiscing ultricies magna
+2025-07-03 11:34:41 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text consectetuer dolor massa elit consectetuer sit Maecenas Kafka amet sit congue libero magna
+2025-07-03 11:34:41 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text purus ultricies elit Java sed ultricies
+2025-07-03 11:34:41 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text magna ipsum libero purus Kafka consectetuer porttitor ipsum
+2025-07-03 11:34:41 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Maecenas sit amet ipsum adipiscing Elasticsearch Lorem Fusce lectus
+2025-07-03 11:34:41 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ipsum dolor pulvinar purus Microservices magna ipsum
+2025-07-03 11:34:41 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ipsum ipsum purus sit sed Kafka ultricies ultricies magna sed
+2025-07-03 11:34:41 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text adipiscing amet Fusce amet Kafka Fusce posuere Maecenas
+2025-07-03 11:34:41 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text purus Fusce dolor congue amet Maecenas magna Java ultricies purus magna posuere elit adipiscing
+2025-07-03 11:34:41 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text lectus dolor sit lectus libero sed Kafka purus pulvinar pulvinar purus
+2025-07-03 11:34:41 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Fusce sed sit sit consectetuer Java Fusce ipsum congue
+2025-07-03 11:34:42 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ultricies Fusce libero lectus libero Java posuere magna elit consectetuer
+2025-07-03 11:34:42 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text elit purus magna amet magna Lorem magna Java Fusce elit Maecenas ultricies sed
+2025-07-03 11:34:42 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text libero massa libero consectetuer libero Kafka Lorem ipsum Fusce
+2025-07-03 11:34:42 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text sed purus dolor sit Kafka sit posuere
+2025-07-03 11:34:42 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text consectetuer Fusce Lorem Lorem lectus Lorem Kafka malesuada purus libero porttitor
+2025-07-03 11:34:42 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Maecenas lectus pulvinar ultricies lectus Kafka porttitor posuere sed
+2025-07-03 11:34:42 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text purus amet sed Fusce adipiscing Microservices libero ipsum dolor massa
+2025-07-03 11:34:42 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text sed magna magna Lorem porttitor posuere sit Microservices porttitor dolor magna amet massa congue
+2025-07-03 11:34:42 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text posuere posuere Fusce Fusce Java lectus Lorem
+2025-07-03 11:34:42 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text lectus massa ipsum congue amet magna Elasticsearch elit magna pulvinar ipsum
+2025-07-03 11:34:43 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text pulvinar adipiscing dolor congue ipsum Maecenas Java sit ultricies massa consectetuer adipiscing
+2025-07-03 11:34:43 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Maecenas massa congue lectus Microservices adipiscing purus
+2025-07-03 11:34:43 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text magna lectus amet consectetuer amet sit sit elit Microservices purus sit ipsum pulvinar congue purus
+2025-07-03 11:34:43 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text pulvinar elit pulvinar Java Maecenas ipsum
+2025-07-03 11:34:43 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text sit congue sed Lorem Maecenas Java Fusce sit massa
+2025-07-03 11:34:43 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ipsum consectetuer consectetuer Lorem purus magna massa Microservices elit dolor porttitor purus sed Lorem
+2025-07-03 11:34:43 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Fusce adipiscing ultricies Fusce sit adipiscing Microservices Maecenas lectus libero malesuada porttitor
+2025-07-03 11:34:43 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Lorem amet libero libero amet Elasticsearch Lorem lectus lectus sit
+2025-07-03 11:34:43 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text sed massa porttitor elit magna Microservices congue lectus porttitor massa
+2025-07-03 11:34:43 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Fusce massa malesuada Lorem Maecenas adipiscing malesuada magna Elasticsearch adipiscing amet congue dolor elit magna congue
+2025-07-03 11:34:44 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text lectus ipsum porttitor lectus sed Java dolor dolor adipiscing Fusce
+2025-07-03 11:34:44 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text Fusce porttitor elit Elasticsearch consectetuer libero
+2025-07-03 11:34:44 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text massa libero ipsum ultricies elit Java adipiscing malesuada congue
+2025-07-03 11:34:44 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text dolor consectetuer massa Maecenas pulvinar dolor elit Java Fusce amet Fusce Fusce amet magna

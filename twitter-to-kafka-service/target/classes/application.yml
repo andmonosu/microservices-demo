@@ -8,4 +8,4 @@ twitter-to-kafka-service:
   enable-mock-tweets: true
   mock-min-tweet-length: 5
   mock-max-tweet-length: 15
-  mock-sleep-ms: 1000
+  mock-sleep-ms: 100
