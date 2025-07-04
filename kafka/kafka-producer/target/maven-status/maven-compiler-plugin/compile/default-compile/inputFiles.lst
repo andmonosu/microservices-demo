@@ -1,0 +1,3 @@
+/home/andreu/MyProjects/microservices-demo/kafka/kafka-producer/src/main/java/com/microservices/demo/kafka/producer/config/KafkaProducerConfig.java
+/home/andreu/MyProjects/microservices-demo/kafka/kafka-producer/src/main/java/com/microservices/demo/kafka/producer/config/service/impl/TwitterKafkaProducer.java
+/home/andreu/MyProjects/microservices-demo/kafka/kafka-producer/src/main/java/com/microservices/demo/kafka/producer/config/service/KafkaProducer.java

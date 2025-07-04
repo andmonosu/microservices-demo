@@ -1,0 +1,4 @@
+/home/andreu/MyProjects/microservices-demo/kafka/kafka-admin/src/main/java/com/microservices/demo/kafka/admin/config/WebClientConfig.java
+/home/andreu/MyProjects/microservices-demo/kafka/kafka-admin/src/main/java/com/microservices/demo/kafka/admin/client/KafkaAdminClient.java
+/home/andreu/MyProjects/microservices-demo/kafka/kafka-admin/src/main/java/com/microservices/demo/kafka/admin/config/KafkaAdminConfig.java
+/home/andreu/MyProjects/microservices-demo/kafka/kafka-admin/src/main/java/com/microservices/demo/kafka/admin/exception/KafkaClientException.java
