@@ -1,4 +1,10 @@
 -------------------------------------------------------------------------------
 Test set: com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.952 s - in com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplicationTests
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.972 s <<< FAILURE! - in com.microservices.demo.twitter.to.kafka.service.TwitterToKafkaServiceApplicationTests
+contextLoad  Time elapsed: 0.004 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'org.springframework.aop.config.internalAutoProxyCreator': Initialization of bean failed; nested exception is java.lang.NoClassDefFoundError: org/aspectj/lang/annotation/Pointcut
+Caused by: java.lang.NoClassDefFoundError: org/aspectj/lang/annotation/Pointcut
+Caused by: java.lang.ClassNotFoundException: org.aspectj.lang.annotation.Pointcut
+

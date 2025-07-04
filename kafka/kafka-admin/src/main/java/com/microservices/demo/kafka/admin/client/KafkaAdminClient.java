@@ -13,6 +13,7 @@ import org.springframework.http.HttpMethod;
 import org.springframework.http.HttpStatus;
 import org.springframework.retry.RetryContext;
 import org.springframework.retry.support.RetryTemplate;
+import org.springframework.stereotype.Component;
 import org.springframework.web.reactive.function.client.ClientResponse;
 import org.springframework.web.reactive.function.client.WebClient;
 
@@ -21,6 +22,7 @@ import java.util.List;
 import java.util.concurrent.ExecutionException;
 import java.util.stream.Collectors;
 
+@Component
 public class KafkaAdminClient {
 
     private final static Logger LOGGER = LoggerFactory.getLogger(KafkaAdminClient.class);
@@ -48,6 +50,7 @@ public class KafkaAdminClient {
         CreateTopicsResult createTopicsResult;
         try {
             createTopicsResult = retryTemplate.execute(this::doCreateTopics);
+
         } catch (Throwable t) {
             throw new KafkaClientException("Reached max number of retry for creating kafka topic(s)!");
         }

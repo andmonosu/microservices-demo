@@ -31,7 +31,11 @@
         </dependency>
         <dependency>
             <groupId>com.microservices.demo</groupId>
-            <artifactId>app-config-data</artifactId>
+            <artifactId>kafka-producer</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.microservices.demo</groupId>
+            <artifactId>kafka-admin</artifactId>
         </dependency>
     </dependencies>
 

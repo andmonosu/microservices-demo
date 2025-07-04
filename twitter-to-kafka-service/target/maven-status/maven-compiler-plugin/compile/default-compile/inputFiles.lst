@@ -1,6 +1,9 @@
+/home/andreu/MyProjects/microservices-demo/twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/init/impl/KafkaStreamInitializer.java
 /home/andreu/MyProjects/microservices-demo/twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/runner/impl/MockKafkaStreamRunner.java
 /home/andreu/MyProjects/microservices-demo/twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/runner/impl/TwitterKafkaStreamRunner.java
 /home/andreu/MyProjects/microservices-demo/twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/exception/TwitterToKafkaServiceException.java
 /home/andreu/MyProjects/microservices-demo/twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/runner/StreamRunner.java
+/home/andreu/MyProjects/microservices-demo/twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/init/StreamInitializer.java
 /home/andreu/MyProjects/microservices-demo/twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/listener/TwitterKafkaStatusListener.java
 /home/andreu/MyProjects/microservices-demo/twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/TwitterToKafkaServiceApplication.java
+/home/andreu/MyProjects/microservices-demo/twitter-to-kafka-service/src/main/java/com/microservices/demo/twitter/to/kafka/service/transformer/TwitterStatusToAvroTransformer.java
