@@ -15,6 +15,7 @@
         <module name="kafka-producer" />
         <module name="common-config" />
         <module name="twitter-to-kafka-service" />
+        <module name="playground" />
       </profile>
     </annotationProcessing>
   </component>
@@ -28,6 +29,7 @@
       <module name="kafka-model" options="-parameters" />
       <module name="kafka-producer" options="-parameters" />
       <module name="microservices-demo" options="-parameters" />
+      <module name="playground" options="-parameters" />
       <module name="twitter-to-kafka-service" options="-parameters" />
     </option>
   </component>
