@@ -15,4 +15,3 @@ spring:
     user:
       name: spring_cloud_user
       password: ENC(3roidpKlnw1mWR+kuJKScWvzDFihpc+OV1Wa761gl5EL3sQcapxswE/T/q9UGJ8In+qIpZQI8K/81Ezqqee7jg==!)
-
