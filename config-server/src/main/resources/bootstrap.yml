@@ -8,10 +8,11 @@ spring:
           uri: https://github.com/andmonosu/microservices-demo-config-server
           username: andmonosu
           clone-on-start: true
-          password:
+          password: ENC(EqXfkcSr0rzzCvUmKMZRTmYsZR/8yqM4kliWseieFuuNGdUjVScE7reWsCilywXQxv8KjpO3hCAUcPUuIGWc/0a89q8N8UxNuM2QYaLG1cQ=)
           default-label: main
     fail-fast: true
   security:
     user:
       name: spring_cloud_user
-      password: springCloud_Pwd!
+      password: ENC(3roidpKlnw1mWR+kuJKScWvzDFihpc+OV1Wa761gl5EL3sQcapxswE/T/q9UGJ8In+qIpZQI8K/81Ezqqee7jg==!)
+
